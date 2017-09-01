@@ -12,9 +12,9 @@ window.onload = function init() {
 
 		var assetsToLoadURLs = {
 
-    gameBackground: { url: 'https://dl.dropboxusercontent.com/u/24936377/gameBackground.png' },
-    mainMenu: { url: 'https://dl.dropboxusercontent.com/u/24936377/mainMenu.png' },
-    gameOver: { url: 'https://dl.dropboxusercontent.com/u/24936377/gameOver.png'},
+    gameBackground: { url: 'https://dl.dropboxusercontent.com/s/g5xx3zc6j98fbii/gameBackground.png' },
+    mainMenu: { url: 'https://dl.dropboxusercontent.com/s/63hzfocxc91nocs/mainMenu.png' },
+    gameOver: { url: 'https://dl.dropboxusercontent.com/s/djq9oqbswzf8fl3/gameOver.png'},
 	  nomSound: { url: 'https://dl.dropboxusercontent.com/u/24936377/nom.wav', buffer: false, loop: false, volume: 1.0 },
 		batSound: { url: 'https://dl.dropboxusercontent.com/u/24936377/batsound.wav', buffer: false, loop: false, volume: 0.1 },
 		noMercy: { url: 'https://dl.dropboxusercontent.com/u/24936377/noMercy.mp3', buffer: false, loop: false, volume: 0.5 },
